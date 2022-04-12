@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "a68fdb757a3d9eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "843e9192cb09f454",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "class 5.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3f9e331bd33694e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfbc0e928d939f41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfa1b4e7d89c7ad6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86a2e58ae6a9c793",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 177
+  },
+  "right": {
+    "id": "82d3df019c793d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "467bdd8f5c8102cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38c56da4a11a183",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "class 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f19a94431301aa57",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "843e9192cb09f454",
+  "lastOpenFiles": [
+    "class 5.md",
+    "class 4.md",
+    "class 3.md",
+    "class 2.md",
+    "class 6.md",
+    "class 1.md",
+    "Terms.md"
+  ]
+}

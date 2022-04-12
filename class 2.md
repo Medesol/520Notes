@@ -1,0 +1,5 @@
+- 90以上必A
+- 作业更好看可以拿高分，但是要在readme中说明做了什么
+- 争取拿extra credit，期末考试可能比较难
+- 写Maya plugins提升简历
+- maya的脚本语言Mel基本没人用，用python
