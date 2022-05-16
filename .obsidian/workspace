@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "class 5.md",
+            "file": "Quaternions and Rotation.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Quaternion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 177
+    "width": 302
   },
   "right": {
     "id": "82d3df019c793d69",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class 5.md",
+                "file": "Quaternions and Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,16 +94,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "843e9192cb09f454",
   "lastOpenFiles": [
-    "class 5.md",
+    "Quaternions and Rotation.md",
+    "Skinning.md",
+    "Facial simulation.md",
+    "Constraint.md",
+    "Collision Detection.md",
+    "Haptics Sound Fluid.md",
+    "FEM.md",
     "class 4.md",
-    "class 3.md",
-    "class 2.md",
-    "class 6.md",
-    "class 1.md",
-    "Terms.md"
+    "Implicit Backward Euler.md",
+    "class 3.md"
   ]
 }

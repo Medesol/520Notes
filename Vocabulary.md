@@ -1,0 +1,28 @@
+- Diffentiate: 求导
+- Partial derivative: 偏导
+- Second derivative: 二阶导
+- Ordinary Differential Equation: 常微分方程
+- Stiff: 硬的，不容易移动的
+- Integral: 积分
+- Backfire: 事与愿违
+- flocking: 群集，一大群
+- Trajectory: 轨迹
+- Stride: 大步，大跨步
+- Subtlety: 细微，轻巧
+- apprentice: 学徒
+- foot skate: 脚在地上滑动
+- occlusion: 堵塞
+- tackle: 处理
+- hamster: 仓鼠
+- helix: 螺旋结构
+- monopoly: 垄断
+- pore: 毛孔
+- wrinkle: 皱纹，褶皱
+- uncanny valley: 恐怖谷效应 how much human watching this like it. Evolution so afraid of it.
+- fascia: 筋膜
+- arbitrate: 裁决
+- torque: 力矩
+- provisional: 暂时的
+- infringement: 违反
+- orthogonal matrix: 正交矩阵
+- tactile: 触觉的
